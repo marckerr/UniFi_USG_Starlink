@@ -1,0 +1,5 @@
+# Apple
+*.dmg
+*.pkg
+*.mpkg
+.DS_Store
